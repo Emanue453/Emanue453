@@ -1,16 +1,13 @@
-## Hi there 👋
+## boas vindas ao meu perfil 💙
 
-<!--
-**Emanue453/Emanue453** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Meu nome é Emanuel lõ
 
-Here are some ideas to get you started:
+- Estou estudando na [alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desnvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### voce entra em contato comigo 📫
+
+lo0061793@gmail.com
+
+![](https://media1.tenor.com/m/MCBkr6dWLkUAAAAd/corinthians-rodrigo-garro.gif )
